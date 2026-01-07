@@ -1,11 +1,11 @@
 :root {
-    --bg-dark: #0d1117;
-    --card-bg: #161b22;
+    --bg-dark: #010802;
+    --card-bg: #0a2200;
     --border-grey: #30363d;
     --text-white: #c9d1d9;
     --text-dim: #8b949e;
-    --github-blue: #58a6ff;
-    --nav-blue: #a5d6ff;
+    --github-blue: #a1fd9e;
+    --nav-blue: #befdc4;
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -13,7 +13,7 @@ body { background: var(--bg-dark); color: var(--text-white); font-family: -apple
 
 /* HEADER FIXES */
 .main-nav { 
-    background: rgba(165, 214, 255, 0.8); 
+    background: rgba(16, 216, 93, 0.8); 
     backdrop-filter: blur(10px);
     height: 80px; 
     display: flex; 
